@@ -26,4 +26,6 @@ This project demonstrates low-level systems programming concepts, including manu
    gcc commands.c -o kvstore
 
 ## 📸 Screenshot
+<img width="516" height="703" alt="output5" src="https://github.com/user-attachments/assets/8a44fac5-2d1e-480c-bfce-b47a3bdf0c8f" />
+
 
