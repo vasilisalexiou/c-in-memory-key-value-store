@@ -24,3 +24,6 @@ This project demonstrates low-level systems programming concepts, including manu
 2. Compile the code using GCC:
    ```bash
    gcc commands.c -o kvstore
+
+## 📸 Screenshot
+
